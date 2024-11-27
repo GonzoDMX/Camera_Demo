@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Camera_Demo" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Your theme customizations here -->
+    </style>
+</resources>
